@@ -1,8 +1,18 @@
 # Matplotlib Challenge - The Power of Plots
-## Summary
+## Background
 I have been given access to the complete data from a recent animal study. In this study, 250 mice identified with SCC tumor growth were treated through a variety of drug regimens. Over the course of 45 days, tumor development was observed and measured. The purpose of my study was to compare the performance of Pymaceuticals' drug of interest, Capomulin, versus the other treatment regimens and provide top-level summary of the study results.
 
-## Results
+Data was provided via 2 csv files and they are saved [here](https://github.com/kanamoore/matplotlib-challenge/tree/master/data)
+
+## Summary
+Firstly, only Ramicane and Capomulin were successful at reducing tumor volume. Ramicane and Capomulin reduced average tumor volume by roughly 11%-12%, whereas other treatments increased average tumor volume by roughly 16%-22% after 45 days of treatment.
+
+Secondly,there was a positive correlation between mouse weight and average tumor volume for the Capomulin treatment, r= 0.84, p = < 0.001.
+
+Lastly, Capomulin yielded the highest mouse survival rate, which was about 84%, whereas Propriva yielded only 28% based on the number of mice on day 1 versus day 45 of the treatment duration.
+
+## Data Analysis
+For the code and result, please check [Jupyter notebook](https://github.com/kanamoore/matplotlib-challenge/blob/master/pymaceuticals_starter.ipynb)
 
 * Generated a summary statistics table consisting of the mean, median, variance, standard deviation, and SEM of the tumor volume for each drug regimen.
 
