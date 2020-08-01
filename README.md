@@ -1,6 +1,6 @@
 # Matplotlib Challenge - The Power of Plots
 ## Background
-I have been given access to the complete data from a recent animal study. In this study, 250 mice identified with SCC tumor growth were treated through a variety of drug regimens. Over the course of 45 days, tumor development was observed and measured. The purpose of my study was to compare the performance of Pymaceuticals' drug of interest, Capomulin, versus the other treatment regimens and provide top-level summary of the study results.
+I have been given access to the complete data from a recent animal study. In this study, 250 mice identified with tumor growth were treated through a variety of drug regimens. Over the course of 45 days, tumor development was observed and measured. The purpose of my study was to compare the performance of Pymaceuticals' drug of interest, Capomulin, versus the other treatment regimens and provide top-level summary of the study results.
 
 Data was provided via 2 csv files and they are saved [here.](https://github.com/kanamoore/matplotlib-challenge/tree/master/data)
 
